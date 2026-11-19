@@ -1,4 +1,4 @@
-# Hi <img src="https://githubusercontent.com" width="30px" /> My name is ItzMeNow
+# Hi <img src="https://githubusercontent.com" width="32" height="32" alt="Waving Hand" /> My name is ItzMeNow
 
 ### Web Developer & Game Developer
 *I learned English through Minecraft!*
@@ -13,9 +13,11 @@
 ### 🛠️ Tech Stack & Interests
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tech Stack Icons" />
-  </a>
+  <img src="https://githubusercontent.com" alt="Java" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="HTML5" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="CSS3" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="JavaScript" width="42" height="42" />
+  <img src="https://githubusercontent.com" alt="Git" width="42" height="42" />
 </p>
 
 <p align="left">
@@ -25,13 +27,4 @@
   <a href="https://papermc.io">
     <img src="https://shields.io" alt="PaperMC" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Activity
-*(Replace `ItzMeNow` with your exact GitHub username)*
-
-<p align="left">
-  <img src="https://demolab.com" alt="GitHub Streak" />
 </p>
