@@ -14,3 +14,4 @@
 * **Languages:** Java, HTML, CSS, JavaScript
 * **Minecraft Development:** [FoliaMC](https://papermc.io), [PaperMC](https://papermc.io), Regionized Multithreading
 * **Tools:** Git, GitHub
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
